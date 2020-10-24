@@ -5,7 +5,7 @@ import './index.css';
 class App extends React.Component{
     render(){
         return(
-            <div>Hello World 1111</div>
+            <div>Welcome to React World!</div>
         )
     }
 }
